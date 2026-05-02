@@ -35,6 +35,23 @@ Product Layer      →   IoT Devices ·  MVP Dev  ·  PCB Design        ·  Hard
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+
+| Achievement | Details |
+|:---|:---|
+| 🥈 **IIT PALS InnoWAH Runner-up** | MedTech Track · 2026 |
+| 🏅 **Smart India Hackathon Finalist** | Wearable · Sports & Health · 2026 |
+| 🎓 **1-TOPS Program** | Top 100 Team · 2026 |
+| 🔬 **Lam Research Challenge** | Systems Engineering · IISc · 2023 |
+| 📄 **IEEE Publication** | ICPECTS Conference · 2024 |
+| 🏆 **IoT Excellence Award** | Outstanding Technical Contributions · 2024 |
+
+</div>
+
+---
+
 ## 💻 Languages & Tools
 
 <div align="center">
@@ -119,22 +136,7 @@ Product Layer      →   IoT Devices ·  MVP Dev  ·  PCB Design        ·  Hard
 
 ---
 
-## 🏆 Achievements
 
-<div align="center">
-
-| Achievement | Details |
-|:---|:---|
-| 🥈 **IIT PALS InnoWAH Runner-up** | MedTech Track · 2026 |
-| 🏅 **Smart India Hackathon Finalist** | Wearable · Sports & Health · 2026 |
-| 🎓 **1-TOPS Program** | Top 100 Team · 2026 |
-| 🔬 **Lam Research Challenge** | Systems Engineering · IISc · 2023 |
-| 📄 **IEEE Publication** | ICPECTS Conference · 2024 |
-| 🏆 **IoT Excellence Award** | Outstanding Technical Contributions · 2024 |
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
