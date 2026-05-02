@@ -75,19 +75,45 @@ Product Layer      →   IoT Devices ·  MVP Dev  ·  PCB Design        ·  Hard
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Synopsys-VCS%20·%20Verdi%20·%20Fusion%20Compiler-0099CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjEwIiBmaWxsPSIjMDA5OUNDIi8+PHRleHQgeT0iLjllbSIgZm9udC1zaXplPSI2MCIgeD0iMjAiPuKahDwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=0d1117" height="32" />
-&nbsp;
-<img src="https://img.shields.io/badge/Cadence-Custom%20Compiler-A020F0?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjEwIiBmaWxsPSIjQTAyMEYwIi8+PHRleHQgeT0iLjllbSIgZm9udC1zaXplPSI2MCIgeD0iMjAiPuKahDwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=0d1117" height="32" />
-&nbsp;
-<img src="https://img.shields.io/badge/Xilinx%20Vivado-AMD%20FPGA%20Design-E01020?style=for-the-badge&logo=amd&logoColor=white&labelColor=0d1117" height="32" />
-&nbsp;
-<img src="https://img.shields.io/badge/LTspice-Circuit%20Simulation-8B0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjEwIiBmaWxsPSIjOEIwMDAwIi8+PHRleHQgeT0iLjllbSIgZm9udC1zaXplPSI2MCIgeD0iMjAiPuKahDwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=0d1117" height="32" />
-&nbsp;
-<img src="https://img.shields.io/badge/EasyEDA-PCB%20%26%20Schematic-00C3FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjEwIiBmaWxsPSIjMDBDM0ZGIi8+PHRleHQgeT0iLjllbSIgZm9udC1zaXplPSI2MCIgeD0iMjAiPuKahDwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=0d1117" height="32" />
-&nbsp;
-<img src="https://img.shields.io/badge/Altium%20Designer-PCB%20Design-A5915F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjEwIiBmaWxsPSIjQTU5MTVGIi8+PHRleHQgeT0iLjllbSIgZm9udC1zaXplPSI2MCIgeD0iMjAiPuKahDwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=0d1117" height="32" />
-&nbsp;
-<img src="https://img.shields.io/badge/ModelSim-RTL%20Simulation-FF8C00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjEwIiBmaWxsPSIjRkY4QzAwIi8+PHRleHQgeT0iLjllbSIgZm9udC1zaXplPSI2MCIgeD0iMjAiPuKahDwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=0d1117" height="32" />
+<table border="0" cellpadding="16" cellspacing="0">
+<tr>
+<td align="center" width="150">
+<img src="assets/logos/synopsys.png" height="50" alt="Synopsys" /><br><br>
+<b>Synopsys</b><br>
+<sub>VCS · Verdi · Fusion Compiler</sub>
+</td>
+<td align="center" width="150">
+<img src="assets/logos/cadence.svg" height="50" alt="Cadence" /><br><br>
+<b>Cadence</b><br>
+<sub>Custom Compiler</sub>
+</td>
+<td align="center" width="150">
+<img src="assets/logos/xilinx.png" height="50" alt="Xilinx" /><br><br>
+<b>Xilinx Vivado</b><br>
+<sub>AMD FPGA Design</sub>
+</td>
+<td align="center" width="150">
+<img src="assets/logos/ltspice.webp" height="50" alt="LTspice" /><br><br>
+<b>LTspice</b><br>
+<sub>Circuit Simulation</sub>
+</td>
+<td align="center" width="150">
+<img src="assets/logos/easyeda.png" height="50" alt="EasyEDA" /><br><br>
+<b>EasyEDA</b><br>
+<sub>PCB & Schematic</sub>
+</td>
+<td align="center" width="150">
+<img src="assets/logos/fpga.webp" height="50" alt="FPGA" /><br><br>
+<b>FPGA Design</b><br>
+<sub>Xilinx · Intel · Lattice</sub>
+</td>
+<td align="center" width="150">
+<img src="assets/logos/quartus.png" height="50" alt="Intel Quartus" /><br><br>
+<b>Intel Quartus</b><br>
+<sub>FPGA Programming</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
