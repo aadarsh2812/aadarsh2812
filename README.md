@@ -102,7 +102,7 @@ Product Layer      →   IoT Devices ·  MVP Dev  ·  PCB Design        ·  Hard
 <td align="center" width="150">
 <img src="assets/logos/cadence.svg" height="50" alt="Cadence" /><br><br>
 <b>Cadence</b><br>
-<sub>Custom Compiler</sub>
+<sub>Cadence Virtuoso</sub>
 </td>
 <td align="center" width="150">
 <img src="assets/logos/xilinx.png" height="50" alt="Xilinx" /><br><br>
