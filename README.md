@@ -62,7 +62,7 @@ Product Layer      →   IoT Devices ·  MVP Dev  ·  PCB Design        ·  Hard
 <br>
 
 ### Platforms & DevTools
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,github,vscode,azure,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,github,vscode,azure,&theme=dark" />
 
 </div>
 
