@@ -35,6 +35,57 @@ Product Layer      →   IoT Devices ·  MVP Dev  ·  PCB Design        ·  Hard
 
 ---
 
+## 💼 Experience
+
+<div align="center">
+
+<table border="0" cellpadding="12" cellspacing="0" width="100%">
+
+<tr>
+<td>
+<b>Struent Semiconductors</b> &nbsp;·&nbsp; Student Intern &nbsp;&nbsp;
+<code>Apr 2026 – Present</code><br>
+Studying and applying digital circuit design fundamentals — combinational/sequential logic, hardware integration, RTL coding — under industry mentorship using professional EDA tools.
+</td>
+</tr>
+
+<tr><td><br></td></tr>
+
+<tr>
+<td>
+<b>Big Bang Boom Solutions</b> &nbsp;·&nbsp; Drone Engineer Intern &nbsp;&nbsp;
+<code>Jun – Sep 2025</code><br>
+Contributed to electronics integration, sensor calibration, and field testing of defense-grade UAV platforms, supporting flight stability validation and mission readiness assessments.
+</td>
+</tr>
+
+<tr><td><br></td></tr>
+
+<tr>
+<td>
+<b>Spinacle Technologies Pvt. Ltd.</b> &nbsp;·&nbsp; R&D Intern &nbsp;&nbsp;
+<code>Jan – Jun 2025</code><br>
+• Designed multi-layer PCBs in Altium Designer optimized for power and area in resource-constrained healthcare IoT environments.<br>
+• Developed ESP32 embedded firmware in Embedded C for an IoT MVP, enabling real-time multi-sensor data acquisition and processing.
+</td>
+</tr>
+
+<tr><td><br></td></tr>
+
+<tr>
+<td>
+<b>Spinacle Technologies Pvt. Ltd.</b> &nbsp;·&nbsp; AIoT Intern &nbsp;&nbsp;
+<code>Apr – May 2024</code><br>
+Built an ESP32-based audio monitoring system integrated with Microsoft Azure, reducing alert latency by 10% vs. prior pipeline.
+</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -135,8 +186,6 @@ Product Layer      →   IoT Devices ·  MVP Dev  ·  PCB Design        ·  Hard
 </div>
 
 ---
-
-
 
 ## 📊 GitHub Stats
 
