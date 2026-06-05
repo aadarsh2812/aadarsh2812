@@ -111,6 +111,14 @@ Designed DRC/LVS-clean GDSII layout via OpenLane 2 (Yosys + OpenROAD); 50×50 µ
 <sub><code>Altera DE2 FPGA · Verilog RTL</code></sub><br>
 Pure RTL VGA Pong — no CPU, no software. 640×480 VGA output with real-time physics, collision detection, score tracking, and synchronous game state machine.
 </td>
+  <tr>
+<td>
+<b><a href="https://iit-pals.vercel.app/#demo">Mento — Predict Injuries & Prevent it.</a></b> &nbsp;·&nbsp;
+<sub><code>Wearable · Edge ML · LSTM · Multi-Sensor Fusion</code></sub><br>
+Real-time wearable system that predicts sports injuries before they happen — using multi-sensor fusion, edge computing, and an LSTM trained on continuous biometric streams.
+</td>
+</tr>
+<tr><td><br></td></tr>
 </tr>
 <tr><td><br></td></tr>
 <tr>
