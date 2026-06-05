@@ -57,7 +57,7 @@ Product Layer      →   IoT Devices ·  MVP Dev  ·  PCB Design        ·  Hard
 <div align="center">
 
 ### Programming & Frameworks
-<img src="https://skillicons.dev/icons?i=c,python,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,python,verilog&theme=dark" />
 
 <br>
 
