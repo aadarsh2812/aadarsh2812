@@ -85,6 +85,50 @@ Built an ESP32-based audio monitoring system integrated with Microsoft Azure, re
 </div>
 
 ---
+🚀 Projects
+<div align="center">
+<table border="0" cellpadding="12" cellspacing="0" width="100%">
+<tr>
+<td>
+<b>Custom 130nm CMOS NOT Gate — RTL-to-GDSII</b> &nbsp;·&nbsp;
+<sub><code>SkyWater 130nm PDK · OpenLane 2</code></sub><br>
+Designed DRC/LVS-clean GDSII layout via OpenLane 2 (Yosys + OpenROAD); 50×50 µm footprint with West-In/East-Out pin ordering for modular hierarchical integration.
+</td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>
+<b>On-Chip Tsetlin Machine</b> &nbsp;·&nbsp;
+<sub><code>Renesas Forge SLG47910 FPGA · Verilog-2001</code></sub><br>
+- Binary classifier on 1K-LUT FPGA; LFSR-gated stochastic automaton with 12-clause voting solving the non-linearly separable XOR problem.<br>
+- Designed an RP2040-based MicroPython supervisor that streamed training data over a 6-pin GPIO interface and automatically stopped training upon convergence — hardware-software co-design for edge ML.
+</td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>
+<b><a href="https://github.com/aadarsh2812/Vga_Pong_Game">Hardware-Driven VGA Pong</a></b> &nbsp;·&nbsp;
+<sub><code>Altera DE2 FPGA · Verilog RTL</code></sub><br>
+Pure RTL VGA Pong — no CPU, no software. 640×480 VGA output with real-time physics, collision detection, score tracking, and synchronous game state machine.
+</td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>
+<b><a href="https://github.com/aadarsh2812/Muscle-sync">MuscleSync — Real-Time EMG-Based Control System</a></b><br>
+Embedded C firmware for EMG signal acquisition and digital filtering; 85% pattern-recognition accuracy for assistive control applications. Flex a muscle, control your PC — no touch needed.
+</td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>
+<b>Gut Health Management System</b> &nbsp;·&nbsp;
+<sub><code>Raspberry Pi · Cloud AI</code></sub><br>
+Non-invasive gut health monitoring system using Raspberry Pi; captured multimodal data (image + audio), processed via cloud AI, achieving 80% diagnostic detection accuracy.
+</td>
+</tr>
+</table>
+</div>
 
 ## 🏆 Achievements
 
