@@ -4,7 +4,7 @@
 
 <h1>👋 Hi, I'm Aadarsh K A S</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+%26+VLSI+Engineer;RTL+Design+%7C+Physical+Design+%7C+FPGA;Building+Hardware+Products+from+0%E2%86%921;IIT+PALS+Runner-up+%7C+SIH+%2726+Finalist;From+Silicon+to+System%E2%80%94I+own+the+full+journey" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=900&lines=Embedded+Systems+%26+VLSI+Engineer;RTL+Design+%7C+Physical+Design+%7C+FPGA;Building+Hardware+Products+from+0%E2%86%921;IIT+PALS+Runner-up+%7C+SIH+%2726+Finalist;From+Silicon+to+System%E2%80%94I+own+the+full+journey" alt="Typing SVG" />
 
 <br>
 
