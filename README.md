@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="image_2b9769.jpg" width="100%" alt="Header Banner" />
+<img src="asserts/logs/image_2b9769.jpg" width="100%" alt="Header Banner" />
 
 # 👋 Hi, I'm Aadarsh K A S
 
