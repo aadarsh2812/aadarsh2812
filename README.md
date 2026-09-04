@@ -18,8 +18,8 @@
 
 Hardware engineer who thinks in systems—from RTL code to the product a user holds. Currently deepening VLSI expertise while staying hands-on with embedded systems and IoT product development.
 
-- 🔭 **Currently**: VLSI Intern @ **Struent Semiconductor**
-- 💼 **Previously**: R&D Intern @ Spinacle Technologies &nbsp;|&nbsp; Drone Engineer @ Big Bang Boom Solutions
+- 🔭 **Currently**: Open to Work
+- 💼 **Previously**: VLSI Intern @ Struent Semiconductor &nbsp;|&nbsp;R&D Intern @ Spinacle Technologies &nbsp;|&nbsp; Drone Engineer @ Big Bang Boom Solutions
 - 🎓 **Studying**: Electronics Engineering (VLSI) @ Rajalakshmi Institute of Technology
 - 👨‍🏫 **Mentor**: 50+ students on systems thinking & product development
 - 💡 **Superpower**: I find root causes others miss—hardware depth meets product strategy
@@ -146,6 +146,7 @@ Non-invasive gut health monitoring system using Raspberry Pi; captured multimoda
 
 | Achievement | Details |
 |:---|:---|
+| 🥉 **ANNA INCUBATOR x IIT PALS Pitch Fest winner | Campus Innovator Track · 2026 |
 | 🥈 **IIT PALS InnoWAH Runner-up** | MedTech Track · 2026 |
 | 🏅 **Smart India Hackathon Finalist** | Wearable · Sports & Health · 2026 |
 | 🎓 **1-TOPS Program** | Top 100 Team · 2026 |
