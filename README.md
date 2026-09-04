@@ -8,7 +8,7 @@
 
 <br>
 
-**IIT PALS InnoWAH Runner-up** &nbsp;•&nbsp; **SIH '26 Finalist** &nbsp;•&nbsp; **Lam Research Qualified** &nbsp;•&nbsp; **IEEE Published**
+**ANNA INCUBATOR x IIT PALS Pitch Fest winner** &nbsp;•&nbsp; **SIH '26 Finalist** &nbsp;•&nbsp; **IIT PALS InnoWAH Runner-up** &nbsp;•&nbsp; **IEEE Published**
 
 </div>
 
