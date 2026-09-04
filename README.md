@@ -146,7 +146,7 @@ Non-invasive gut health monitoring system using Raspberry Pi; captured multimoda
 
 | Achievement | Details |
 |:---|:---|
-| 🥉 **ANNA INCUBATOR x IIT PALS Pitch Fest winner | Campus Innovator Track · 2026 |
+| 🥉 **ANNA INCUBATOR x IIT PALS Pitch Fest winner** | Campus Innovator Track · 2026 |
 | 🥈 **IIT PALS InnoWAH Runner-up** | MedTech Track · 2026 |
 | 🏅 **Smart India Hackathon Finalist** | Wearable · Sports & Health · 2026 |
 | 🎓 **1-TOPS Program** | Top 100 Team · 2026 |
