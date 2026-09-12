@@ -92,6 +92,14 @@ Built an ESP32-based audio monitoring system integrated with Microsoft Azure, re
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
 <tr>
 <td>
+<b><a href="https://github.com/aadarsh2812/Parameterized-Cache-Memory-Subsystem">Parameterized Cache Memory Subsystem</a></b> &nbsp;·&nbsp;
+<sub><code>Parameterized Hardware Architecture · Controller Logic · Memory Organization</code></sub><br>
+Synthesizable, parameterized cache subsystem with configurable architecture, controller logic, and memory organization for scalable hardware integration.
+</td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>
 <b>Custom 130nm CMOS NOT Gate — RTL-to-GDSII</b> &nbsp;·&nbsp;
 <sub><code>SkyWater 130nm PDK · OpenLane 2</code></sub><br>
 Designed DRC/LVS-clean GDSII layout via OpenLane 2 (Yosys + OpenROAD); 50×50 µm footprint with West-In/East-Out pin ordering for modular hierarchical integration.
@@ -121,14 +129,6 @@ Real-time wearable system that predicts sports injuries before they happen — u
 </td>
 </tr>
 <tr><td><br></td></tr>
-</tr>
-<tr><td><br></td></tr>
-<tr>
-<td>
-<b><a href="https://aadarsh2812/Parameterized-Cache-Memory-Subsystem">Parameterized Cache Memory Subsystem</a></b> &nbsp;·&nbsp;
-<sub><code>Parameterized Hardware Architecture · Controller Logic · Memory Organization</code></sub><br>
-Synthesizable, parameterized cache subsystem with configurable architecture, controller logic, and memory organization for scalable hardware integration.
-</td>
 </tr>
 <tr><td><br></td></tr>
 <tr>
