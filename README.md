@@ -4,7 +4,7 @@
 
 <h1>👋 Hi, I'm Aadarsh K A S</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=900&lines=Embedded+Systems+%26+VLSI+Engineer;RTL+Design+%7C+P[...]
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=900&lines=Embedded+Systems+%26+VLSI+Engineer;RTL+Design+%7C+Product+Development;Hardware+to+Cloud+Builder;Open+to+Work" alt="Typing SVG" />
 
 <br>
 
@@ -266,7 +266,7 @@ Non-invasive gut health monitoring system using Raspberry Pi; captured multimoda
 
 ## 🤝 Looking to Collaborate On
 
-VLSI/FPGA projects &nbsp;•&nbsp; Embedded systems & IoT products &nbsp;•&nbsp; RTL design challenges &nbsp;•&nbsp; Hardware-software integration &nbsp;•&nbsp; Anything needing systems thinking[...]
+VLSI/FPGA projects &nbsp;•&nbsp; Embedded systems & IoT products &nbsp;•&nbsp; RTL design challenges &nbsp;•&nbsp; Hardware-software integration &nbsp;•&nbsp; Anything needing systems thinking
 
 ---
 
@@ -306,7 +306,7 @@ VLSI/FPGA projects &nbsp;•&nbsp; Embedded systems & IoT products &nbsp;•&nbs
 
 <div align="center">
 
-*"Strategy is my unfair advantage. I find problems worth solving while others chase solutions."*
+*"Strategy is my unfair advantage. I find problems worth solving while others chase solutions."
 
 <br>
 
