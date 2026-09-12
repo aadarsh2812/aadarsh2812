@@ -4,7 +4,7 @@
 
 <h1>👋 Hi, I'm Aadarsh K A S</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=900&lines=Embedded+Systems+%26+VLSI+Engineer;RTL+Design+%7C+Physical+Design+%7C+FPGA;Building+Hardware+Products+from+0%E2%86%921;ANNA+INCUBATOR+x+IIT+PALS+Pitch+Fest+Winner+%7C+SIH+%2726+Finalist;From+Silicon+to+System%E2%80%94I+own+the+full+journey" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=900&lines=Embedded+Systems+%26+VLSI+Engineer;RTL+Design+%7C+P[...]
 
 <br>
 
@@ -103,7 +103,7 @@ Designed DRC/LVS-clean GDSII layout via OpenLane 2 (Yosys + OpenROAD); 50×50 µ
 <b><a href="https://github.com/aadarsh2812/adaptive-circuits_Tselin-Machine">On-Chip Tsetlin Machine</b> &nbsp;·&nbsp;
 <sub><code>Renesas Forge SLG47910 FPGA · Verilog-2001</code></sub><br>
 - Binary classifier on 1K-LUT FPGA; LFSR-gated stochastic automaton with 12-clause voting solving the non-linearly separable XOR problem.<br>
-- Designed an RP2040-based MicroPython supervisor that streamed training data over a 6-pin GPIO interface and automatically stopped training upon convergence — hardware-software co-design for edge ML.
+- Designed an RP2040-based MicroPython supervisor that streamed training data over a 6-pin GPIO interface and automatically stopped training upon convergence — hardware-software co-design for edge M[...]
 </td>
 </tr>
 <tr><td><br></td></tr>
@@ -121,6 +121,14 @@ Real-time wearable system that predicts sports injuries before they happen — u
 </td>
 </tr>
 <tr><td><br></td></tr>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>
+<b><a href="https://aadarsh2812/Parameterized-Cache-Memory-Subsystem">Parameterized Cache Memory Subsystem</a></b> &nbsp;·&nbsp;
+<sub><code>Parameterized Hardware Architecture · Controller Logic · Memory Organization</code></sub><br>
+Synthesizable, parameterized cache subsystem with configurable architecture, controller logic, and memory organization for scalable hardware integration.
+</td>
 </tr>
 <tr><td><br></td></tr>
 <tr>
@@ -258,7 +266,7 @@ Non-invasive gut health monitoring system using Raspberry Pi; captured multimoda
 
 ## 🤝 Looking to Collaborate On
 
-VLSI/FPGA projects &nbsp;•&nbsp; Embedded systems & IoT products &nbsp;•&nbsp; RTL design challenges &nbsp;•&nbsp; Hardware-software integration &nbsp;•&nbsp; Anything needing systems thinking + strategic execution
+VLSI/FPGA projects &nbsp;•&nbsp; Embedded systems & IoT products &nbsp;•&nbsp; RTL design challenges &nbsp;•&nbsp; Hardware-software integration &nbsp;•&nbsp; Anything needing systems thinking[...]
 
 ---
 
