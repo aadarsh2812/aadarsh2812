@@ -100,7 +100,7 @@ Designed DRC/LVS-clean GDSII layout via OpenLane 2 (Yosys + OpenROAD); 50×50 µ
 <tr><td><br></td></tr>
 <tr>
 <td>
-<b>On-Chip Tsetlin Machine</b> &nbsp;·&nbsp;
+<b><a href="https://github.com/aadarsh2812/adaptive-circuits_Tselin-Machine">On-Chip Tsetlin Machine</b> &nbsp;·&nbsp;
 <sub><code>Renesas Forge SLG47910 FPGA · Verilog-2001</code></sub><br>
 - Binary classifier on 1K-LUT FPGA; LFSR-gated stochastic automaton with 12-clause voting solving the non-linearly separable XOR problem.<br>
 - Designed an RP2040-based MicroPython supervisor that streamed training data over a 6-pin GPIO interface and automatically stopped training upon convergence — hardware-software co-design for edge ML.
