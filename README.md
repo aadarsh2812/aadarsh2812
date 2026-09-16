@@ -290,7 +290,7 @@ VLSI/FPGA projects &nbsp;•&nbsp; Embedded systems & IoT products &nbsp;•&nbs
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="72" height="72" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://i-aadarshkas.web.app/" target="_blank">
+<a href="https://aadarsh2812.github.io/portfolio/" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="72" height="72" alt="Portfolio"/>
 </a>
 
