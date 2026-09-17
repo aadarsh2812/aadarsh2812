@@ -300,7 +300,7 @@ VLSI/FPGA projects &nbsp;•&nbsp; Embedded systems & IoT products &nbsp;•&nbs
 
 ## ⚡ Fun Fact
 
-> I debug hardware with a product mindset and build products with a hardware engineer's constraints—turns out thinking vertically solves problems others miss.
+> I debug hardware with a product mindset and build products with a hardware engineer's constraints turns out thinking vertically solves problems others miss.
 
 ---
 
